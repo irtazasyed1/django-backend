@@ -1,0 +1,9 @@
+Django==3.2.9
+djangorestframework==3.13.1
+djangorestframework_simplejwt==4.8.0
+djoser==2.1.0
+geocoder==1.38.1
+matplotlib==3.3.3
+pandas==1.1.5
+tweepy==4.1.0
+twint==2.1.21
